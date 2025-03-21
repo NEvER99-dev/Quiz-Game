@@ -1,2 +1,10 @@
 # Quiz-Game
 How to make a BASIC (Quiz Game)
+# Quiz Game
+
+A simple quiz game built with Python.
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/quiz-game.git
