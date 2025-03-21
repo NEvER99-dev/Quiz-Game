@@ -1,5 +1,3 @@
-# Quiz-Game
-How to make a BASIC (Quiz Game)
 # Quiz Game
 
 A simple quiz game built with Python.
